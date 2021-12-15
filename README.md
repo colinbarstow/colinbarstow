@@ -8,6 +8,10 @@ I am a passionate JavaScript and Php developer working on projects mainly within
 <br>
 I have no stack of choice per say, i am a greater believer in treating each project as its own being and working within a stack that enables that project to reach its full potential.
 <br><br>
+I am currently working on two projects: <br> 
+
+My Home Storage Solutions <a href="https://github.com/colinbarstow/my-home-storage-solutions">View the repo here</a> <br>
+An unamed music streaming platform <a href="https://github.com/colinbarstow/MusicStreamingPlatform">View the repo here</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinbarstow)](https://github.com/anuraghazra/github-readme-stats)
