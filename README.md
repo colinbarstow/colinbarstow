@@ -33,7 +33,8 @@ An unamed music streaming platform <a href="https://github.com/colinbarstow/Musi
 ![](https://img.shields.io/badge/Tools-Linode-informational?style=flat&logo=linode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-S3-informational?style=flat&logo=amazons3&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 <!---
 colinbarstow/colinbarstow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
